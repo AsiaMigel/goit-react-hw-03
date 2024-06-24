@@ -1,0 +1,20 @@
+.searchBoxBar{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: start;
+    width: auto;
+}
+
+.searchBoxName{
+    font-size: 20px;
+}
+
+.searchBoxInput{
+    padding: 0 10px;
+    width: 400px;
+    height: 45 px;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: transparent;
+}
