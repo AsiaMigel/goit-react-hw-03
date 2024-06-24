@@ -9,13 +9,13 @@
 }
 
 .delete {
-  border-radius: 50%;
+  border-radius: 20%;
   padding: 16px;
   border: none;
   color: black;
-  background-color: #dad288;
+  background-color: #9d9c95;
 
   &:hover {
-    background-color: #93803e;
+    background-color: #5d5c5a;
   }
 }

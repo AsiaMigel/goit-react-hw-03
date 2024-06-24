@@ -8,7 +8,7 @@ const Contact = ({ contact, onDelete }) => {
           {contact.name}: {contact.number}
         </p>
         <button className={css.delete} onClick={onDelete}>
-          Del
+          Delete
         </button>
       </li>
     </div>
